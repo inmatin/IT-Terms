@@ -1,0 +1,15 @@
+The DHCP (Dynamic Host Configuration Protocol) is a network protocol that automatically assigns IP addresses and other crucial network settings (like subnet masks, default gateways, and DNS server addresses) to devices on a network, eliminating the need for manual configuration, making network management simpler and more efficient. When a device connects, it requests these details from a DHCP server, which leases them for a set time, allowing devices to easily join and leave networks.  
+How DHCP Works (DORA Process)
+DHCP communication follows a four-step process known as DORA: 
+Discover: The client broadcasts a message to find available DHCP servers on the network. 
+Offer: Servers respond with an offer, proposing an IP address and configuration details.
+Request: The client requests the offered IP address and parameters.
+Acknowledgment: The server sends a final confirmation (DHCPACK), finalizing the lease and configuration. 
+Key Benefits
+Automation: Reduces the time and errors associated with manual IP address assignment, notes Cisco and Portnox.
+Efficiency: Dynamically reuses IP addresses, returning them to the pool when devices disconnect.
+Scalability: Manages large networks easily, from home routers to large corporate networks.
+Components
+DHCP Server: Stores IP addresses and configuration info, dynamically allocating them.
+DHCP Client: The device (computer, phone, printer) requesting the information.
+IP Pool: The range of addresses the server can lease.
