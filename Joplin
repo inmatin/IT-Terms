@@ -1,0 +1,9 @@
+Joplin is a free, open-source note-taking and to-do application designed as a privacy-focused alternative to proprietary apps like Evernote. It supports Markdown, allows for organizing notes into notebooks, and features end-to-end encryption (E2EE) for security. It is available on Windows, macOS, Linux, Android, and iOS, featuring robust synchronization options via Joplin Cloud, Nextcloud, or Dropbox. 
+Key features and details include:
+Markdown Support: Notes are created in Markdown format, with support for images, attachments, and PDFs.
+Organization: Notes can be tagged, searched, and organized into nested notebooks.
+Web Clipper: A browser extension is available to save web pages as notes.
+Customization: Supports plugins, themes, and multiple text editors.
+Data Portability: Notes can be exported in various formats including JEX, RAW, MD, and HTML.
+Security: Features end-to-end encryption to keep notes private. 
+Joplin is designed for users who want a powerful, flexible, and privacy-conscious note-taking solution. 
