@@ -1,0 +1,10 @@
+Uptime is the period a system, service, or device is operational and available for use, measured as a percentage of total time, with 100% being fully available. It's the opposite of downtime and crucial for reliability, showing how consistently a website, application, or server functions without crashing or becoming unreachable, often measured in "nines" (e.g., 99.999% for "five-nines" availability).
+Key aspects of uptime:
+Measurement: Calculated as (Total Time - Downtime) / Total Time * 100%.
+Importance: Ensures businesses can make sales, communicate, and perform work, impacting customer trust and experience.
+Metrics: Expressed as percentages (e.g., 99.9%) or absolute time (e.g., 360 days).
+Causes of Downtime: Can include hardware/software failures, human error (bad code, misconfigurations), or planned maintenance.
+High Availability: A goal for critical systems, often aiming for "five-nines" (99.999%) or more, requiring constant monitoring and robust planning.
+Uptime on devices:
+On personal computers and phones, it often means the time since the last reboot or power-on.
+Long uptime on personal devices can sometimes indicate a need for updates or a reboot to maintain performance and security, notes AirDroid.
